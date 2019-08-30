@@ -13,7 +13,7 @@
   This was made just for fun, I just want it to write some GUI programming on Python with some crawling stuff.<br\>
   <code>Result: Once more, I confirmed my vocation is not related deeply with the 'client-side'. <br\>
   And again, confirmed that I want to become a <b>Back-end Developer</b> <br/></code>
-  
+  <br/>
   
  <h3>| Dev enviroment |</h3>
   <ul>
@@ -21,7 +21,7 @@
   <li>MySQL (SQLite)</li>
   <li>MyBatis</li>
  </ul>
- 
+ <br/>
  <h4>| Libraries |</h4>
  <ul>
   <li>Qt Designer (PyQt5)</li>
@@ -29,13 +29,13 @@
   <li>Beautiful Soup (bs4)</li>
   <li>PyGal</li>
   </ul>
-  
+  <br/>
  <h4>| Data Set |</h4>
  <ul>
   <li>Korea '<a href="https://web.dominos.co.kr/goods/list">Domino's Pizza<a/>' official site</li>
 </ul>
   
-  <br/><br/><br/><br/><br/>
+  <br/><br/><br/><br/><br/><br/>
  <div align='center'><p>*********Feel free to fork, contribute and make constructive comments *********</p></div>
 
 <div align='left'><p>Credits</p>
