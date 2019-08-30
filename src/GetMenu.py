@@ -91,3 +91,5 @@ if __name__ == '__main__':
     for a in menu_list:
         #print(type(a))
         insertdata('pythondb',a)
+
+        
