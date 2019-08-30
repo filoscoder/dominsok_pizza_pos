@@ -23,6 +23,7 @@ def payment_select1():
 
     conn.commit()
     conn.close()
+    
 
 def payment_select2():
     # db 연결
