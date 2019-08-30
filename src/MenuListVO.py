@@ -6,8 +6,4 @@ class Menu:
         self.m_quantity = m_quantity
         self.m_img = m_img
         self.m_desc = m_desc
-       # print('{0}정보를 추가 하였습니다.'.format(self.m_name))
-
-
-
-
+ 
