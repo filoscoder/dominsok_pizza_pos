@@ -27,7 +27,6 @@ Button(root, text=u"지불방식", bg='lightblue', command=lambda: ChartView.p_p
 
 # 피자, 사이드디시, 음료, 피클&소스 서브메뉴를 db에 가져와서 넣는다.
 
-
 category = ['C0102','C0201','C0202','C0203']
 
 sel_List=[]
