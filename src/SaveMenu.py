@@ -1,6 +1,7 @@
 #-*- coding:utf-8 -*-
 import MySQLdb
 
+
 def insertdata(db,data):
     print(data.m_name, data.m_price, data.c_id, data.m_quantity, data.m_img, data.m_desc)
     conn = MySQLdb.connect(host='192.168.0.170',user='scott',passwd='tiger',db=db, charset="utf8")
