@@ -19,7 +19,6 @@
   <ul>
   <li>Python 3.7 (JETBRAIN - PyCharm)</li>
   <li>MySQL (SQLite)</li>
-  <li>MyBatis</li>
  </ul>
  <br/>
  <h4>| Libraries |</h4>
